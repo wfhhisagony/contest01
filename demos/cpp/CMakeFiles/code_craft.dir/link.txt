@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/code_craft.dir/main.cpp.o -o code_craft 

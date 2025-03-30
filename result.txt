@@ -1,0 +1,1 @@
+{"error_code":"interaction_successful","score":"2976737.2100","message":"Interaction successful, score: 2976737.2100 (21.4964%), used: 290.0370s."}
